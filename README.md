@@ -9,7 +9,7 @@ On a journey to master the intricacies of machine learning.
 I’m excited to team up on open-source projects, creative coding challenges, and anything that fuels our passions!
 
 ✉️ How to Connect:
-Feel free to drop me a message at mitricadavid26@gmail.com or find me on LinkedIn.
+Feel free to drop me a message at mitricadavid26@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/david-mitrica-934a0b322/).
 
 <!---
 M1tr1ca/M1tr1ca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

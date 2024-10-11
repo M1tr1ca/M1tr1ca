@@ -3,7 +3,7 @@
 I'm captivated by the wonders of technology, innovative solutions, and the art of storytelling through code.
 
 📚 Currently Exploring:
-On a journey to master the intricacies of machine learning.
+On a journey to master the intricacies of machine learning and fms.
 
 🤝 Let’s Collaborate:
 I’m excited to team up on open-source projects, creative coding challenges, and anything that fuels our passions!

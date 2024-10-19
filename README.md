@@ -11,6 +11,10 @@ I’m excited to team up on open-source projects, creative coding challenges, an
 ✉️ How to Connect:
 Feel free to drop me a message at mitricadavid26@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/david-mitrica-934a0b322/).
 
+![42 Madrid - Fundación Telefónica ](https://github.com/user-attachments/assets/9d242783-133a-4e78-953d-ab48441d6baa)
+
+
+
 <!---
 M1tr1ca/M1tr1ca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

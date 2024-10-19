@@ -18,8 +18,11 @@ Feel free to drop me a message at mitricadavid26@gmail.com or find me on [Linked
   <a href="https://github.com/user-attachments/assets/9d242783-133a-4e78-953d-ab48441d6baa">
     <img src="https://github.com/user-attachments/assets/9d242783-133a-4e78-953d-ab48441d6baa" alt="42 Madrid - Fundación Telefónica Badge" width="100"/>
   </a>
-  <div style="font-size: 12px;">42 Madrid-Fundación Telefónica</div>
+  <a href="https://www.credly.com/badges/3bbfa2d9-fbc0-4e23-bca7-dc6c96a080c3">
+    <img src="https://github.com/user-attachments/assets/4229c6ea-fee6-4876-b928-93cae72f034c" alt="AWS Educate Machine Learning Foundations Badge" width="100"/>
+  </a>
 </div>
+
 
 
 # 💻 I've been working with:

@@ -24,12 +24,13 @@ Feel free to drop me a message at mitricadavid26@gmail.com or find me on [Linked
   <a href="https://github.com/user-attachments/assets/7c1dc446-5de7-4369-925a-f1beeca03b95">
     <img src="https://github.com/user-attachments/assets/7c1dc446-5de7-4369-925a-f1beeca03b95" alt="New Badge" width="80" style="vertical-align: -10px;"/>
   </a>
-
+</div>
 
 
 
 
 # 💻 I've been working with:
+
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -41,6 +42,7 @@ Feel free to drop me a message at mitricadavid26@gmail.com or find me on [Linked
 </div>
 
 # 📊 Stats:
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M1TR1CA&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="300"/>

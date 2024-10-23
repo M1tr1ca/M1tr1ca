@@ -21,7 +21,11 @@ Feel free to drop me a message at mitricadavid26@gmail.com or find me on [Linked
   <a href="https://www.credly.com/badges/3bbfa2d9-fbc0-4e23-bca7-dc6c96a080c3">
     <img src="https://github.com/user-attachments/assets/4229c6ea-fee6-4876-b928-93cae72f034c" alt="AWS Educate Machine Learning Foundations Badge" width="100"/>
   </a>
-</div>
+  <a href="https://github.com/user-attachments/assets/7c1dc446-5de7-4369-925a-f1beeca03b95">
+    <img src="https://github.com/user-attachments/assets/7c1dc446-5de7-4369-925a-f1beeca03b95" alt="New Badge" width="80" style="vertical-align: -10px;"/>
+  </a>
+
+
 
 
 

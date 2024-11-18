@@ -1,5 +1,5 @@
 
-# ☀️About me:
+# ☀️ About me:
 👋 Greetings, I'm @M1tr1ca!
 
 🌟 What Sparks My Interest:

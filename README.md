@@ -5,7 +5,7 @@
 🌟 What Sparks My Interest:
 I'm captivated by the wonders of technology, innovative solutions, and the art of storytelling through code.
 
-🦀 Currently Exploring:
+🧠 Currently Exploring:
 On a journey to master the intricacies of machine learning.
 
 🤝 Let’s Collaborate:
